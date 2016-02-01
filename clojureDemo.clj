@@ -1,4 +1,5 @@
-(println 
-	(+ 1 2)
+(import com.neuronrobotics.bowlerstudio.BowlerKernel)
+
+(BowlerKernel/speak 
 	"Hello World!"
 )
