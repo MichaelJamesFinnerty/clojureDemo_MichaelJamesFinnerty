@@ -1,5 +1,5 @@
 (import com.neuronrobotics.bowlerstudio.BowlerKernel)
 
 (BowlerKernel/speak 
-	"Hello World!"
+	"You can write scripts in Clojure"
 )
